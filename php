@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>给数组增加元素</TITLE>
 </HEAD>
-<?
+<php?
     $Cities[] = "<B>北京</B>";    //等同于$Cities[0] = "北京"
     $Cities[] = "<B>天津</B>";    //等同于$Cities[1] = "天津"
     $Cities[] = "<B>上海</B>";    //等同于$Cities[2] = "上海"
@@ -18,6 +18,6 @@
     {
         print("第 $index 个城市是 $Cities[$index]。 <BR>\n");
     }
-?>
+php?>
 </BODY>
 </HTML>
