@@ -2,7 +2,12 @@
 $favcolor="red";
 {
 case"red":
-  echo"你喜欢的颜色是红色！";
+  echo"你喜欢的颜色是红色!";
   break;
-  
-  
+  case"green":
+  echo"你喜欢的颜色是绿色!";
+ break;
+  defULT:
+  echo"你喜欢的颜色不是红,或绿
+  }
+  ？?
