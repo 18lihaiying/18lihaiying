@@ -1,0 +1,9 @@
+<?php
+$name="runoob";
+$a=<<<EOF
+"abc"$name
+"678"
+EOF;
+//
+echo$a
+?>
