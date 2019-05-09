@@ -1,0 +1,6 @@
+<?php
+$txt1="RUNOOB.COM";
+$cars=array("Volvo","BMW","Toyota");
+print$txt1;
+print"<br>"
+?>
